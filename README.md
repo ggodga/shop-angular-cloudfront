@@ -1,4 +1,4 @@
-# GGODGA MISC E-shop
+GGODGA MISC E-shop
 
 Manual Deploy:
 
